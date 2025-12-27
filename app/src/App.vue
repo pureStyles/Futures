@@ -1,13 +1,18 @@
 <template>
   <div id="app">
-    <h1>欧总在干嘛</h1>
+    <PositionDashboard />
   </div>
 </template>
 
 <script>
 
+import PositionDashboard from './components/PositionDashboard.vue';
+
 export default {
   name: 'App',
+  components: {
+    PositionDashboard
+  }
 }
 </script>
 

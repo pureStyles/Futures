@@ -1,11 +1,12 @@
-import moment from "moment";
-import { queryVarietyPostion } from "../api/broker.js";
+const moment = require("moment");
+const { queryVarietyPostion } = require("../api/broker.js");
+const { getNearestWeekday } = require("../utils/date.js");
 
-async function fetchNetPositionData(varietyCode) {
+async function fetchVarietyPositionData(varietyCode) {
     try {
         const data = await queryVarietyPostion({
             code: varietyCode,
-            date: moment().format("YYYY-MM-DD"),
+            date: getNearestWeekday(),
         });
         return {
             longPosition: data.buy || [],
@@ -14,6 +15,10 @@ async function fetchNetPositionData(varietyCode) {
     } catch (error) {
         console.log(error)
     }
+}
+
+module.exports = {
+    fetchVarietyPositionData
 }
 
 

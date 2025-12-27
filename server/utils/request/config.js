@@ -1,10 +1,10 @@
 
-export const serverConfig = {
+const serverConfig = {
     baseURL: "https://www.jiaoyikecha.com",
     useTokenAuthorization: false,
 };
 
-export const HEADERS = {
+const HEADERS = {
     "accept": "application/json, text/javascript, */*; q=0.01",
     "accept-language": "zh-CN,zh;q=0.9,ar;q=0.8",
     "cache-control": "no-cache",
@@ -22,3 +22,8 @@ export const HEADERS = {
     "Referer": "https://www.jiaoyikecha.com/"
 };
 
+
+module.exports = {
+    serverConfig,
+    HEADERS
+}

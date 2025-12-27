@@ -1,5 +1,5 @@
-import axios from "axios";
-import { serverConfig, HEADERS } from "./config.js";
+const axios = require("axios");
+const { serverConfig, HEADERS } = require("./config.js");
 
 const serviceAxios = axios.create({
     baseURL: serverConfig.baseURL,
@@ -25,5 +25,4 @@ serviceAxios.interceptors.response.use((response) => {
     return Promise.reject(error);
 });
 
-
-export default serviceAxios;
+module.exports = serviceAxios;

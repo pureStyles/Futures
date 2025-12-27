@@ -1,0 +1,794 @@
+[
+  {
+    "date": "2025-12-26",
+    "updated_at": "2025-12-28 00:41:24",
+    "positions": {
+      "cf2605": {
+        "longPosition": [
+          {
+            "broker_id": 47,
+            "broker": "中信期货",
+            "grade": "A",
+            "buy": 91169,
+            "buy_chge": -1852,
+            "net_position": -12881,
+            "sub": 0
+          },
+          {
+            "broker_id": 173,
+            "broker": "国泰君安",
+            "grade": "A",
+            "buy": 68667,
+            "buy_chge": 5308,
+            "net_position": -4429,
+            "sub": 0
+          },
+          {
+            "broker_id": 279,
+            "broker": "永安期货",
+            "grade": "A",
+            "buy": 47527,
+            "buy_chge": 1307,
+            "net_position": -8987,
+            "sub": 1
+          },
+          {
+            "broker_id": 42,
+            "broker": "东证期货",
+            "grade": "A",
+            "buy": 46076,
+            "buy_chge": 4133,
+            "net_position": 22615,
+            "sub": 0
+          },
+          {
+            "broker_id": 416,
+            "broker": "银河期货",
+            "grade": "B",
+            "buy": 33394,
+            "buy_chge": 1127,
+            "net_position": -44729,
+            "sub": 0
+          },
+          {
+            "broker_id": 64,
+            "broker": "中粮期货",
+            "grade": "D",
+            "buy": 30407,
+            "buy_chge": 1626,
+            "net_position": -35076,
+            "sub": 0
+          },
+          {
+            "broker_id": 489,
+            "broker": "中金财富",
+            "grade": "A",
+            "buy": 27478,
+            "buy_chge": -93,
+            "net_position": 27478,
+            "sub": 0
+          },
+          {
+            "broker_id": 127,
+            "broker": "华泰期货",
+            "grade": "A",
+            "buy": 26117,
+            "buy_chge": 3966,
+            "net_position": 7256,
+            "sub": 0
+          },
+          {
+            "broker_id": 45,
+            "broker": "中信建投",
+            "grade": "E",
+            "buy": 20294,
+            "buy_chge": 2620,
+            "net_position": 20294,
+            "sub": 0
+          },
+          {
+            "broker_id": 170,
+            "broker": "国投安信",
+            "grade": "A",
+            "buy": 18740,
+            "buy_chge": -1874,
+            "net_position": 25,
+            "sub": 0
+          },
+          {
+            "broker_id": 79,
+            "broker": "中金期货",
+            "grade": "B",
+            "buy": 15908,
+            "buy_chge": -1630,
+            "net_position": 15908,
+            "sub": 0
+          },
+          {
+            "broker_id": 478,
+            "broker": "华融融达",
+            "grade": "D",
+            "buy": 15892,
+            "buy_chge": 1219,
+            "net_position": -4235,
+            "sub": 0
+          },
+          {
+            "broker_id": 99,
+            "broker": "光大期货",
+            "grade": "D",
+            "buy": 15640,
+            "buy_chge": 1349,
+            "net_position": 15640,
+            "sub": 0
+          },
+          {
+            "broker_id": 1,
+            "broker": "一德期货",
+            "grade": "B",
+            "buy": 14933,
+            "buy_chge": 13096,
+            "net_position": 14933,
+            "sub": 0
+          },
+          {
+            "broker_id": 177,
+            "broker": "国贸期货",
+            "grade": "B",
+            "buy": 14887,
+            "buy_chge": -266,
+            "net_position": -36076,
+            "sub": 0
+          },
+          {
+            "broker_id": 258,
+            "broker": "新湖期货",
+            "grade": "A",
+            "buy": 14730,
+            "buy_chge": 661,
+            "net_position": 2413,
+            "sub": 0
+          },
+          {
+            "broker_id": 251,
+            "broker": "招商期货",
+            "grade": "A",
+            "buy": 14651,
+            "buy_chge": -842,
+            "net_position": 14651,
+            "sub": 0
+          },
+          {
+            "broker_id": 308,
+            "broker": "浙商期货",
+            "grade": "A",
+            "buy": 14216,
+            "buy_chge": 2797,
+            "net_position": -2078,
+            "sub": 0
+          },
+          {
+            "broker_id": 230,
+            "broker": "广发期货",
+            "grade": "D",
+            "buy": 13912,
+            "buy_chge": 2256,
+            "net_position": 13912,
+            "sub": 0
+          },
+          {
+            "broker_id": 219,
+            "broker": "平安期货",
+            "grade": "E",
+            "buy": 11275,
+            "buy_chge": 634,
+            "net_position": 11275,
+            "sub": 0
+          },
+          {
+            "broker_id": 334,
+            "broker": "海通期货",
+            "grade": "A",
+            "buy": 0,
+            "buy_chge": -11088,
+            "net_position": 0,
+            "sub": 1
+          }
+        ],
+        "shortPosition": [
+          {
+            "broker_id": 47,
+            "broker": "中信期货",
+            "grade": "A",
+            "ss": 104050,
+            "ss_chge": 12157,
+            "net_position": -12881,
+            "sub": 0
+          },
+          {
+            "broker_id": 416,
+            "broker": "银河期货",
+            "grade": "B",
+            "ss": 78123,
+            "ss_chge": 8648,
+            "net_position": -44729,
+            "sub": 0
+          },
+          {
+            "broker_id": 173,
+            "broker": "国泰君安",
+            "grade": "A",
+            "ss": 73096,
+            "ss_chge": 5062,
+            "net_position": -4429,
+            "sub": 0
+          },
+          {
+            "broker_id": 64,
+            "broker": "中粮期货",
+            "grade": "D",
+            "ss": 65483,
+            "ss_chge": 8551,
+            "net_position": -35076,
+            "sub": 0
+          },
+          {
+            "broker_id": 279,
+            "broker": "永安期货",
+            "grade": "A",
+            "ss": 56514,
+            "ss_chge": 3682,
+            "net_position": -8987,
+            "sub": 1
+          },
+          {
+            "broker_id": 49,
+            "broker": "中国国际",
+            "grade": "B",
+            "ss": 52350,
+            "ss_chge": -13000,
+            "net_position": -52350,
+            "sub": 0
+          },
+          {
+            "broker_id": 177,
+            "broker": "国贸期货",
+            "grade": "B",
+            "ss": 50963,
+            "ss_chge": 7421,
+            "net_position": -36076,
+            "sub": 0
+          },
+          {
+            "broker_id": 167,
+            "broker": "国元期货",
+            "grade": "D",
+            "ss": 29723,
+            "ss_chge": 74,
+            "net_position": -29723,
+            "sub": 0
+          },
+          {
+            "broker_id": 42,
+            "broker": "东证期货",
+            "grade": "A",
+            "ss": 23461,
+            "ss_chge": 6005,
+            "net_position": 22615,
+            "sub": 0
+          },
+          {
+            "broker_id": 236,
+            "broker": "建信期货",
+            "grade": "E",
+            "ss": 22242,
+            "ss_chge": -225,
+            "net_position": -22242,
+            "sub": 0
+          },
+          {
+            "broker_id": 478,
+            "broker": "华融融达",
+            "grade": "D",
+            "ss": 20127,
+            "ss_chge": 3185,
+            "net_position": -4235,
+            "sub": 0
+          },
+          {
+            "broker_id": 127,
+            "broker": "华泰期货",
+            "grade": "A",
+            "ss": 18861,
+            "ss_chge": 3665,
+            "net_position": 7256,
+            "sub": 0
+          },
+          {
+            "broker_id": 170,
+            "broker": "国投安信",
+            "grade": "A",
+            "ss": 18715,
+            "ss_chge": 4870,
+            "net_position": 25,
+            "sub": 0
+          },
+          {
+            "broker_id": 308,
+            "broker": "浙商期货",
+            "grade": "A",
+            "ss": 16294,
+            "ss_chge": 120,
+            "net_position": -2078,
+            "sub": 0
+          },
+          {
+            "broker_id": 176,
+            "broker": "国联期货",
+            "grade": "D",
+            "ss": 15709,
+            "ss_chge": 533,
+            "net_position": -15709,
+            "sub": 0
+          },
+          {
+            "broker_id": 362,
+            "broker": "申银万国",
+            "grade": "A",
+            "ss": 15094,
+            "ss_chge": -702,
+            "net_position": -15094,
+            "sub": 0
+          },
+          {
+            "broker_id": 358,
+            "broker": "瑞达期货",
+            "grade": "A",
+            "ss": 13408,
+            "ss_chge": 706,
+            "net_position": -13408,
+            "sub": 0
+          },
+          {
+            "broker_id": 258,
+            "broker": "新湖期货",
+            "grade": "A",
+            "ss": 12317,
+            "ss_chge": -34,
+            "net_position": 2413,
+            "sub": 0
+          },
+          {
+            "broker_id": 422,
+            "broker": "长江期货",
+            "grade": "C",
+            "ss": 11121,
+            "ss_chge": 2170,
+            "net_position": -11121,
+            "sub": 0
+          },
+          {
+            "broker_id": 482,
+            "broker": "物产中大",
+            "grade": "A",
+            "ss": 10179,
+            "ss_chge": 1821,
+            "net_position": -10179,
+            "sub": 0
+          },
+          {
+            "broker_id": 251,
+            "broker": "招商期货",
+            "grade": "A",
+            "ss": 0,
+            "ss_chge": -9695,
+            "net_position": 14651,
+            "sub": 0
+          },
+          {
+            "broker_id": 105,
+            "broker": "创元期货",
+            "grade": "A",
+            "ss": 0,
+            "ss_chge": -9481,
+            "net_position": 0,
+            "sub": 0
+          }
+        ]
+      },
+      "sr2605": {
+        "longPosition": [
+          {
+            "broker_id": 64,
+            "broker": "中粮期货",
+            "grade": "D",
+            "buy": 45963,
+            "buy_chge": -1412,
+            "net_position": -1904,
+            "sub": 0
+          },
+          {
+            "broker_id": 47,
+            "broker": "中信期货",
+            "grade": "A",
+            "buy": 33849,
+            "buy_chge": 1413,
+            "net_position": -27778,
+            "sub": 0
+          },
+          {
+            "broker_id": 42,
+            "broker": "东证期货",
+            "grade": "A",
+            "buy": 31149,
+            "buy_chge": -1587,
+            "net_position": 3210,
+            "sub": 0
+          },
+          {
+            "broker_id": 416,
+            "broker": "银河期货",
+            "grade": "B",
+            "buy": 31049,
+            "buy_chge": -663,
+            "net_position": 23420,
+            "sub": 0
+          },
+          {
+            "broker_id": 173,
+            "broker": "国泰君安",
+            "grade": "A",
+            "buy": 21218,
+            "buy_chge": -1082,
+            "net_position": 10826,
+            "sub": 0
+          },
+          {
+            "broker_id": 127,
+            "broker": "华泰期货",
+            "grade": "A",
+            "buy": 19353,
+            "buy_chge": 5,
+            "net_position": -6850,
+            "sub": 0
+          },
+          {
+            "broker_id": 177,
+            "broker": "国贸期货",
+            "grade": "B",
+            "buy": 16721,
+            "buy_chge": 555,
+            "net_position": 16721,
+            "sub": 0
+          },
+          {
+            "broker_id": 105,
+            "broker": "创元期货",
+            "grade": "A",
+            "buy": 11977,
+            "buy_chge": 101,
+            "net_position": 11977,
+            "sub": 0
+          },
+          {
+            "broker_id": 45,
+            "broker": "中信建投",
+            "grade": "E",
+            "buy": 11212,
+            "buy_chge": 90,
+            "net_position": 6188,
+            "sub": 0
+          },
+          {
+            "broker_id": 165,
+            "broker": "国信期货",
+            "grade": "D",
+            "buy": 9863,
+            "buy_chge": 1741,
+            "net_position": 9863,
+            "sub": 0
+          },
+          {
+            "broker_id": 334,
+            "broker": "海通期货",
+            "grade": "A",
+            "buy": 9291,
+            "buy_chge": -258,
+            "net_position": 9291,
+            "sub": 1
+          },
+          {
+            "broker_id": 206,
+            "broker": "宏源期货",
+            "grade": "A",
+            "buy": 8880,
+            "buy_chge": -373,
+            "net_position": -4108,
+            "sub": 0
+          },
+          {
+            "broker_id": 99,
+            "broker": "光大期货",
+            "grade": "D",
+            "buy": 8735,
+            "buy_chge": -258,
+            "net_position": -414,
+            "sub": 0
+          },
+          {
+            "broker_id": 219,
+            "broker": "平安期货",
+            "grade": "E",
+            "buy": 7547,
+            "buy_chge": 33,
+            "net_position": 7547,
+            "sub": 0
+          },
+          {
+            "broker_id": 379,
+            "broker": "西部期货",
+            "grade": "B",
+            "buy": 7267,
+            "buy_chge": 7,
+            "net_position": 7267,
+            "sub": 0
+          },
+          {
+            "broker_id": 78,
+            "broker": "中辉期货",
+            "grade": "E",
+            "buy": 6958,
+            "buy_chge": 1291,
+            "net_position": 1523,
+            "sub": 0
+          },
+          {
+            "broker_id": 230,
+            "broker": "广发期货",
+            "grade": "D",
+            "buy": 5902,
+            "buy_chge": 155,
+            "net_position": -966,
+            "sub": 0
+          },
+          {
+            "broker_id": 278,
+            "broker": "民生期货",
+            "grade": "D",
+            "buy": 5646,
+            "buy_chge": 221,
+            "net_position": 5646,
+            "sub": 0
+          },
+          {
+            "broker_id": 279,
+            "broker": "永安期货",
+            "grade": "A",
+            "buy": 5570,
+            "buy_chge": -753,
+            "net_position": -5763,
+            "sub": 1
+          },
+          {
+            "broker_id": 333,
+            "broker": "海证期货",
+            "grade": "A",
+            "buy": 5304,
+            "buy_chge": 745,
+            "net_position": 5304,
+            "sub": 0
+          },
+          {
+            "broker_id": 478,
+            "broker": "华融融达",
+            "grade": "D",
+            "buy": 0,
+            "buy_chge": -6573,
+            "net_position": -7052,
+            "sub": 0
+          },
+          {
+            "broker_id": 362,
+            "broker": "申银万国",
+            "grade": "A",
+            "buy": 0,
+            "buy_chge": -6015,
+            "net_position": 0,
+            "sub": 0
+          },
+          {
+            "broker_id": 170,
+            "broker": "国投安信",
+            "grade": "A",
+            "buy": 0,
+            "buy_chge": -5816,
+            "net_position": -15638,
+            "sub": 0
+          }
+        ],
+        "shortPosition": [
+          {
+            "broker_id": 47,
+            "broker": "中信期货",
+            "grade": "A",
+            "ss": 61627,
+            "ss_chge": -342,
+            "net_position": -27778,
+            "sub": 0
+          },
+          {
+            "broker_id": 83,
+            "broker": "乾坤期货",
+            "grade": "A",
+            "ss": 55032,
+            "ss_chge": -3791,
+            "net_position": -55032,
+            "sub": 0
+          },
+          {
+            "broker_id": 64,
+            "broker": "中粮期货",
+            "grade": "D",
+            "ss": 47867,
+            "ss_chge": 6940,
+            "net_position": -1904,
+            "sub": 0
+          },
+          {
+            "broker_id": 42,
+            "broker": "东证期货",
+            "grade": "A",
+            "ss": 27939,
+            "ss_chge": -825,
+            "net_position": 3210,
+            "sub": 0
+          },
+          {
+            "broker_id": 127,
+            "broker": "华泰期货",
+            "grade": "A",
+            "ss": 26203,
+            "ss_chge": 313,
+            "net_position": -6850,
+            "sub": 0
+          },
+          {
+            "broker_id": 308,
+            "broker": "浙商期货",
+            "grade": "A",
+            "ss": 21559,
+            "ss_chge": 633,
+            "net_position": -21559,
+            "sub": 0
+          },
+          {
+            "broker_id": 489,
+            "broker": "中金财富",
+            "grade": "A",
+            "ss": 16056,
+            "ss_chge": -2090,
+            "net_position": -16056,
+            "sub": 0
+          },
+          {
+            "broker_id": 170,
+            "broker": "国投安信",
+            "grade": "A",
+            "ss": 15638,
+            "ss_chge": -172,
+            "net_position": -15638,
+            "sub": 0
+          },
+          {
+            "broker_id": 206,
+            "broker": "宏源期货",
+            "grade": "A",
+            "ss": 12988,
+            "ss_chge": 22,
+            "net_position": -4108,
+            "sub": 0
+          },
+          {
+            "broker_id": 279,
+            "broker": "永安期货",
+            "grade": "A",
+            "ss": 11333,
+            "ss_chge": 731,
+            "net_position": -5763,
+            "sub": 1
+          },
+          {
+            "broker_id": 173,
+            "broker": "国泰君安",
+            "grade": "A",
+            "ss": 10392,
+            "ss_chge": -303,
+            "net_position": 10826,
+            "sub": 0
+          },
+          {
+            "broker_id": 99,
+            "broker": "光大期货",
+            "grade": "D",
+            "ss": 9149,
+            "ss_chge": 464,
+            "net_position": -414,
+            "sub": 0
+          },
+          {
+            "broker_id": 433,
+            "broker": "首创期货",
+            "grade": "D",
+            "ss": 8311,
+            "ss_chge": 45,
+            "net_position": -8311,
+            "sub": 0
+          },
+          {
+            "broker_id": 416,
+            "broker": "银河期货",
+            "grade": "B",
+            "ss": 7629,
+            "ss_chge": -562,
+            "net_position": 23420,
+            "sub": 0
+          },
+          {
+            "broker_id": 478,
+            "broker": "华融融达",
+            "grade": "D",
+            "ss": 7052,
+            "ss_chge": 623,
+            "net_position": -7052,
+            "sub": 0
+          },
+          {
+            "broker_id": 230,
+            "broker": "广发期货",
+            "grade": "D",
+            "ss": 6868,
+            "ss_chge": -173,
+            "net_position": -966,
+            "sub": 0
+          },
+          {
+            "broker_id": 1,
+            "broker": "一德期货",
+            "grade": "B",
+            "ss": 5786,
+            "ss_chge": -909,
+            "net_position": -5786,
+            "sub": 0
+          },
+          {
+            "broker_id": 78,
+            "broker": "中辉期货",
+            "grade": "E",
+            "ss": 5435,
+            "ss_chge": 292,
+            "net_position": 1523,
+            "sub": 0
+          },
+          {
+            "broker_id": 358,
+            "broker": "瑞达期货",
+            "grade": "A",
+            "ss": 5337,
+            "ss_chge": 216,
+            "net_position": -5337,
+            "sub": 0
+          },
+          {
+            "broker_id": 45,
+            "broker": "中信建投",
+            "grade": "E",
+            "ss": 5024,
+            "ss_chge": -400,
+            "net_position": 6188,
+            "sub": 0
+          }
+        ]
+      }
+    }
+  }
+]
